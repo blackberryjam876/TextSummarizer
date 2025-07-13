@@ -1,6 +1,7 @@
 # TextSummarizer
 
-A simple web app that summarizes user-inputted text using basic NLP heuristics.
+A simple web app that summarizes user-inputted text using basic NLP heuristics. Returns a 3-sentence summary.
+![Input UI and summary example](<Screenshot 2025-07-12 at 8.18.53 PM.png>)
 
 ## Features
 - Extractive summary of paragraphs
